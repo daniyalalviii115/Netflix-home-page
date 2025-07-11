@@ -453,7 +453,7 @@ nav select>option {
 .active img {
     object-fit: contain;
     object-position: center center;
-    height: 400px;
+    height: 425px;
     width: 100px;
    
     box-sizing: outside 10px 10px 10px 10px grey;  
